@@ -6,7 +6,7 @@
 
 But seriously, you can [e-mail me](mailto:drobertc@protonmail.com) or follow me on [twitter](https://twitter.com/HourAl_doll).
 For AI models and datasets that I maintain you can visit my [huggingface repositories](https://huggingface.co/archmagos).
-If you want to test the bots out you can join my Discord [dev/demo server](https://discord.gg/xsBSmfVvkM) (contains both HourAI/ShanghAI, Mima bot and every other bot I am currently losing my mind over).
+If you want to test the bots out you can join my Discord [dev/demo server](https://discord.gg/xsBSmfVvkM) (contains both HourAI/ShanghAI, Mima bot and any other bot I am currently trying not to lose my sanity over).
 <!---
 archmagos-dominus/archmagos-dominus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
