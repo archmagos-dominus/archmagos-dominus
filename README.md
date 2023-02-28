@@ -5,6 +5,7 @@
 - 📫 How to reach me: shout really loud.
 
 But seriously, you can [e-mail me](mailto:drobertc@protonmail.com) or follow me on [twitter](https://twitter.com/HourAl_doll).
+You can also check my [showcasing website](https://archmagos-dominus.github.io/) if you're in the mood.
 For AI models and datasets that I maintain you can visit my [huggingface repositories](https://huggingface.co/archmagos).
 If you want to test the bots out you can join my Discord [dev/demo server](https://discord.gg/xsBSmfVvkM) (contains both HourAI/ShanghAI, Mima bot and any other bot I am currently trying not to lose my sanity over).
 <!---
